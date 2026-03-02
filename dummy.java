@@ -3,7 +3,7 @@ public class dummy{
         System.out.println("pushing this file to github");
         System.out.println("Adding another line to this code");
         System.out.println("Addition " + (2+30));
-        ystem.out.println("Added another lineeeeeeeeeeeeeeee");
+        System.out.println("Added another lineeeeeeeeeeeeeeee");
 
     }
 }
